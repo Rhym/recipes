@@ -1,6 +1,6 @@
-#Pork Chops
+# Pork Chops
 
-##Ingredients
+## Ingredients
 
 1. Onion
 2. Garlic
@@ -23,9 +23,9 @@
 7. Add the chops to the pan.
 8. Fry chops on one side until brown, without moving it around.
 
-#Dauphinoise potatoes
+# Dauphinoise potatoes
 
-##Ingredients
+## Ingredients
 
 1. Potatoes
 2. Cream
@@ -33,7 +33,7 @@
 4. Cheese
 5. Salt &amp; Pepper
 
-##Steps
+## Steps
 
 1. Peel, and cut the potatoes into slivers.
 2. Dice the garlic into decent sized chunks.
