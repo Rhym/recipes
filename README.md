@@ -2,6 +2,22 @@
 1. [Pork Chops](#pork-chops)
 2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
 3. [Mulligatawny](#mulligatawny)
+4. Cheating Roast Lamb
+5. Sausage Casserole
+6. Not Quite Gravy
+7. Coq Au Vin
+8. Chicken Bacon Pesto
+9. Chicken Soup
+10. Vegetable Soup
+11. Curried Mac &amp; Cheese
+12. Beef Stroganoff
+13. Paprika Chicken
+14. Steak With Red Wine Reduction
+15. Beer Bread
+16. Zoodles
+17. Potatoe &amp; Leek Soup
+18. Brussel Sprouts
+19. Cottage Pie
 
 ## Pork Chops
 
