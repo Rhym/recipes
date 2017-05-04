@@ -1,6 +1,7 @@
 # Emma's Recipes
 1. [Pork Chops](#pork-chops)
 2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
+3. [Mulligatawny](#mulligatawny)
 
 ## Pork Chops
 
@@ -13,7 +14,7 @@
 5. Olive Oil
 6. Soy Sauce
 7. Worcester Sauce
-8. Salt &amp;Pepper
+8. Salt &amp; Pepper
 9. Cherry Potatoes
 
 ### Steps
@@ -45,3 +46,32 @@
 4. Add salt &amp; pepper.
 5. Add a fuck-lode of cheese.
 6. Chuck in the oven on 200 degrees celsius.
+
+## Mulligatawny
+
+### Ingredients
+
+1. Green Apples
+2. Boneless Chicken Thighs
+3. Tumeric
+4. Chili
+5. Curry Powder
+6. Rice
+7. Chicken Stock
+8. Onion
+9. Flour (Gluten Free)
+10. Olive Oil
+11. Half a lemon
+
+### Steps
+
+1. Add the flour, and tumeric in a bowl, and mix in the chili and curry powder.
+2. Bread your chicken and add to a pan with a healthy dose of olive oil.
+3. Peel, and dice your apples along with your onions.
+4. Remove the chicken, and add your apples and onion to the pan.
+5. Chop your chicken into bit sized pieces.
+6. Add chicken back to the pan, along with chicken stock.
+7. Add rice, and half a cup of hot water for every portion of rice you have.
+8. Simmer until the rice is cooked.
+9. Remove from heat, and once it has stopped boiling add cream and lemon juice.
+10. Serve.
