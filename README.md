@@ -1,10 +1,10 @@
-# Table of Contents
+# Emma's Recipes
 1. [Pork Chops](#pork-chops)
 2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
 
-# Pork Chops
+## Pork Chops
 
-## Ingredients
+### Ingredients
 
 1. Onion
 2. Garlic
@@ -16,7 +16,7 @@
 8. Salt &amp;Pepper
 9. Cherry Potatoes
 
-## Steps
+### Steps
 
 1. Dice onions into tiny pieces.
 2. Dice garlic.
@@ -27,9 +27,9 @@
 7. Add the chops to the pan.
 8. Fry chops on one side until brown, without moving it around.
 
-# Dauphinoise Potatoes
+## Dauphinoise Potatoes
 
-## Ingredients
+### Ingredients
 
 1. Potatoes
 2. Cream
@@ -37,7 +37,7 @@
 4. Cheese
 5. Salt &amp; Pepper
 
-## Steps
+### Steps
 
 1. Peel, and cut the potatoes into slivers.
 2. Dice the garlic into decent sized chunks.
