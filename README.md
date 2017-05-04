@@ -1,3 +1,7 @@
+# Table of Contents
+1. [Pork Chops](#pork-chops)
+2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
+
 # Pork Chops
 
 ## Ingredients
@@ -23,7 +27,7 @@
 7. Add the chops to the pan.
 8. Fry chops on one side until brown, without moving it around.
 
-# Dauphinoise potatoes
+# Dauphinoise Potatoes
 
 ## Ingredients
 
