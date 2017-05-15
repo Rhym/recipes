@@ -18,6 +18,7 @@
 17. Potatoe &amp; Leek Soup
 18. Brussel Sprouts
 19. Cottage Pie
+20. [Vege Bake](#vege-bake)
 
 ## Pork Chops
 
@@ -91,3 +92,30 @@
 8. Simmer until the rice is cooked.
 9. Remove from heat, and once it has stopped boiling add cream and lemon juice.
 10. Serve.
+
+## Vege Bake
+
+### Ingredients
+
+1. Whatever winter veges you have i.e
+2. Potatoes
+3. Butternut Squash
+4. Cauliflower
+5. Broccoli
+6. Onions
+7. Milk
+8. Flour
+9. Cheese
+10. Butter
+11. Salt &amp; Pepper
+12. Corn
+13. (optional) bacon if you're not completely on that vege buzz.
+
+### Steps
+
+1. Preheat your over to 180 deg.
+2. Chop up your hard veges (potatoes, cauliflower; squash) and chuck them in the microwave with a bit of water for 5 minutes or so.
+3. Chop up your onion, broccoli, and get your corn off the cob.
+4. Put all your veges in an oven tray.
+5. Make a really runny cheese sauce, and pour that biz all over your veges.
+6. Add some grated cheese on top with salt &amp; pepper, and pop in the over until cooked.
