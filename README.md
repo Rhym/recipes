@@ -19,6 +19,7 @@
 18. Brussel Sprouts
 19. Cottage Pie
 20. [Vege Bake](#vege-bake)
+21. [Chowder](#chowder)
 
 ## Pork Chops
 
@@ -119,3 +120,38 @@
 4. Put all your veges in an oven tray.
 5. Make a really runny cheese sauce, and pour that biz all over your veges.
 6. Add some grated cheese on top with salt &amp; pepper, and pop in the over until cooked.
+
+## Chowder
+
+### Ingredients
+
+1. Chicken thighs
+2. Bacon
+3. Garlic
+4. Onion
+5. Dried Chillies
+6. Mixed Herbs
+7. Chicken stock
+8. Cream
+9. Flour
+10. Creamed corn 
+11. Squash and/potato/or whatever root veges you fancy (lol root)
+
+### Steps
+
+1. Mince your garlic & Onion, biff in your big ass pan
+2. Get that sizzling away. You want it to be like a gentle brown not burnt. Like a good tan.
+3. You can add in some of the spice now if you like.
+4. Chop your bacon & put it in. Do not be afraid of putting in too much bacon. 
+5. Chop your chicken and put it in. Thighs are better but ugh you can use breast if you must.
+6. Fry it all up what good for.
+7. Sprinkle some flour over it all and mix it in so it's not lumpy & gross but show some hustle so it doesn't burn.
+8. Pour the chicken stock in.
+9. I like to pre-cook the potato ( and/or squash) in the microwave but if you can be fucked roasting them that is pretty lush. Just make them big & chop them after they've cooled down. Some mush into the soup it is orgasmic.
+10. Keep adding 'erbs and salt and pepper, tasting as you go.
+11. Chuck the corn in. Creamed is best but you'll survive without.
+12. Simmer.
+13. Stir.
+14. Turn off the heat and once the bubbles are gone stir in the cream.
+15. Eat with garlic bread and convince yourself that all soup is healthy probably.
+
