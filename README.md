@@ -20,6 +20,7 @@
 19. Cottage Pie
 20. [Vege Bake](#vege-bake)
 21. [Chowder](#chowder)
+22. [Vegetarian Lasagne](#vegetarian-lasagne)
 
 ## Pork Chops
 
@@ -155,3 +156,46 @@
 14. Turn off the heat and once the bubbles are gone stir in the cream.
 15. Eat with garlic bread and convince yourself that all soup is healthy probably.
 
+## Vegetarian Lasagne
+
+### Ingredients
+
+1. Onion
+2. Garlic
+3. Pastry Sheets
+4. Cheese
+5. Flour
+6. Milk
+7. Tinned Tomatoes
+8. Tomato Passatta
+9. Spinnach
+10. Carrots
+11. Squash
+12. Potatoes
+13. Zucchini
+14. Broccoli
+15. Cauliflower
+16. Worchestor Sauce
+17. Salt & Pepper
+18. Rosemary
+19. oil
+
+### Steps
+
+1. Fry up garlic & Onions in oil
+2. Pre-cook Potatoes, squash; broccoli, cauliflower in the microwave (a bit cooked)
+3. Pop the pre cooked veges in the wok with the onions & garlic.
+4. As soon as it starts sticking a teensy bit (you've used up all the oil from the start with the garlic) pop in the tinned tomato
+5. Stir it all up and keep it cooking. Let the tomato reduce a little bit so it isn't too much liquid. Then pour in the passatta. 
+If it's homemade you probably don't need to add anything apart from the salt & pepper. Otherwise add herbs to taste. Leave that on low to medium heat to cook through.
+6. Turn the oven on to heat up.
+7. Melt some butter in a seperate pan. Sprinkle in flour.
+8. Add milk SLOWWWWLY. Whisk it in if you've got one handy. Otherwise just take it into a bowl & fork the fuck out of it.
+9. Pop some cheese in and stir til it melts. Get it all gooey & cheesy & lussshh.
+10. Turn the heat off and pop the baby spinach in. Stir it through. 
+11. Chuck your first layer of the vege mix down in your dish.
+12. Layer with the lasagne sheets and cheese sauce. Grate some more cheese on (My mum pops cottage or riccotta cheese on this bit too).
+13. Pour more veges on top of that and another cheese sauce layer. Because you're doing veges it can be tricky to get heaps of layers in the pan. 
+If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle with salt and pepper.
+14. Make sure your lasagne sheets are all covered in runny sauce though because otherwise it'll stay dry and be a bitch to eat.
+15. Put it in the oven and make sure it is all gold on top when you take it out so nobody could possibly deny your culinary excellence.
