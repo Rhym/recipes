@@ -21,6 +21,7 @@
 20. [Vege Bake](#vege-bake)
 21. [Chowder](#chowder)
 22. [Vegetarian Lasagne](#vegetarian-lasagne)
+22. [Thai Green Curry](#thai-green-curry)
 
 ## Pork Chops
 
@@ -199,3 +200,25 @@ If it's homemade you probably don't need to add anything apart from the salt & p
 If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle with salt and pepper.
 14. Make sure your lasagne sheets are all covered in runny sauce though because otherwise it'll stay dry and be a bitch to eat.
 15. Put it in the oven and make sure it is all gold on top when you take it out so nobody could possibly deny your culinary excellence.
+
+## Thai Green Curry
+
+### Ingredients
+
+1. Onion
+2. Garlic
+3. Chicken Thigh
+4. Thai green curry paste
+5. coconut milk
+6. assorted veges
+7. rice
+8. chillis
+
+### Steps
+
+1. Boil the rice after rinsing the starch out.
+2. Fry the onion in large chunks, and fry the chicken thighs.
+3. Fry the veges.
+4. Add the curry paste.
+5. Pop in the coconut milk.
+6. Simmer, serve.
