@@ -2,26 +2,11 @@
 1. [Pork Chops](#pork-chops)
 2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
 3. [Mulligatawny](#mulligatawny)
-4. Cheating Roast Lamb
-5. Sausage Casserole
-6. Not Quite Gravy
-7. Coq Au Vin
-8. Chicken Bacon Pesto
-9. Chicken Soup
-10. Vegetable Soup
-11. Curried Mac &amp; Cheese
-12. Beef Stroganoff
-13. Paprika Chicken
-14. Steak With Red Wine Reduction
-15. Beer Bread
-16. Zoodles
-17. Potatoe &amp; Leek Soup
-18. Brussel Sprouts
-19. Cottage Pie
-20. [Vege Bake](#vege-bake)
-21. [Chowder](#chowder)
-22. [Vegetarian Lasagne](#vegetarian-lasagne)
-22. [Thai Green Curry](#thai-green-curry)
+4. [Shepherd's's Pie](#shepherds-pie)
+5. [Vege Bake](#vege-bake)
+6. [Chowder](#chowder)
+7. [Vegetarian Lasagne](#vegetarian-lasagne)
+8. [Thai Green Curry](#thai-green-curry)
 
 ## Pork Chops
 
@@ -122,6 +107,47 @@
 4. Put all your veges in an oven tray.
 5. Make a really runny cheese sauce, and pour that biz all over your veges.
 6. Add some grated cheese on top with salt &amp; pepper, and pop in the over until cooked.
+
+## Shepard's Pie
+
+### Ingredients
+
+- 1x Onion
+- 2x Garlic Cloves
+- 3x Potatoes
+- 1x Carrot
+- 1x Zucchini
+- 500g Mince
+- Tuscan Seasoning
+- Beef Stock
+- Tomato Paste
+- 1x Tin of Tomatoes
+- Worcestershire
+- Salt
+- Pepper
+- Red wine
+- Brown Sugar
+- Butter
+- Milk
+- Cheese
+
+### Steps
+
+1. Preheat oven to 180 degrees.
+2. Peel Potatoes.
+3. Dice garlic and onion.
+4. Grate carrot and zucchini.
+5. Put potatoes on the boil.
+6. Brown the onions and garlic in a pan.
+7. Add the mince, carrots; and zucchini to the pan.
+8. Once the mince has browned, add beef stock; tomato paste, and red wine.
+9. Add the tinned tomatoes.
+10. Add a little Worcestershire sauce, salt & pepper; and salt to taste as you go.
+11. Mash potatoes with butter, and milk.
+12. Once cooked through, add mixture to an oven dish.
+13. Spread mashed potato over the mixture in the over dish.
+14. Place in the oven for 30 minutes.
+15. Dish up.
 
 ## Chowder
 
