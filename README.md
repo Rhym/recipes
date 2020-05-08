@@ -2,7 +2,7 @@
 1. [Pork Chops](#pork-chops)
 2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
 3. [Mulligatawny](#mulligatawny)
-4. [Shepherd's's Pie](#shepherds-pie)
+4. [Shepherd's's Pie](#shepards-pie)
 5. [Vege Bake](#vege-bake)
 6. [Chowder](#chowder)
 7. [Vegetarian Lasagne](#vegetarian-lasagne)
