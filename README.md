@@ -1,4 +1,4 @@
-# Emma's Recipes
+# Recipes
 1. [Pork Chops](#pork-chops)
 2. [Dauphinoise Potatoes](#dauphinoise-potatoes)
 3. [Mulligatawny](#mulligatawny)
@@ -7,6 +7,7 @@
 6. [Chowder](#chowder)
 7. [Vegetarian Lasagne](#vegetarian-lasagne)
 8. [Thai Green Curry](#thai-green-curry)
+8. [Tater Tot Casserole](#tater-tot-casserole)
 
 ## Pork Chops
 
@@ -248,3 +249,36 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 4. Add the curry paste.
 5. Pop in the coconut milk.
 6. Simmer, serve.
+
+## Tater Tot Casserole
+
+### Ingredients
+
+1. 500g beef short ribs
+2. 2 Carrots
+3. 1 Onion
+4. 2 Tablespoons of flour
+5. 3 Cups of beef stock
+6. 1 Tablespoon of Worcestershire sauce
+7. 1 Tablespoon of soy sauce
+8. 1 Tablespoon of Thyme
+9. 2 Bay leaves
+11. Butter
+12. Oil
+13. Salt
+14. Pepper
+
+### Steps
+
+1. Remove the meat fro the bone, and dice into cubes.
+2. Peel and slice carrots.
+2. Dice onion.
+3. Heat a large fry pan over a medium-high heat. Brown the beef in batches then place in a casserole dish.
+4. Reduce heat in pan, and sauté the onion and carrot in oil. Cook for 1-2 minutes, stirring occasionally.
+5. Sprinkle in flour and stir until the vegetables are coated.
+6. Gradually pour in stock, stirring well.
+7. Add the Worcestershire sauce, soy sauce, Thyme, and bay leaves.
+8. Bring to the boil.
+9. Add to the casserole dish, and cook for 20 minutes.
+10. Remove from the oven, and cover the top of the casserole with a layer of tater tots.
+11. Place back in the oven for another 20 minutes, or until the tater tots are golden brown.
