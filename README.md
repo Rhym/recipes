@@ -258,11 +258,12 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 2. 2 Carrots
 3. 1 Onion
 4. 2 Tablespoons of flour
-5. 3 Cups of beef stock
-6. 1 Tablespoon of Worcestershire sauce
-7. 1 Tablespoon of soy sauce
-8. 1 Tablespoon of Thyme
-9. 2 Bay leaves
+5. 2 Cups of beef stock
+6. 1 Cup of red wine
+7. 1 Tablespoon of Worcestershire sauce
+8. 1 Teaspoon of soy sauce
+9. 1 Tablespoon of Thyme
+10. 2 Bay leaves
 11. Butter
 12. Oil
 13. Salt
@@ -270,13 +271,13 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 
 ### Steps
 
-1. Remove the meat fro the bone, and dice into cubes.
+1. Remove the meat from the bone, and dice into cubes.
 2. Peel and slice carrots.
 2. Dice onion.
 3. Heat a large fry pan over a medium-high heat. Brown the beef in batches then place in a casserole dish.
 4. Reduce heat in pan, and sauté the onion and carrot in oil. Cook for 1-2 minutes, stirring occasionally.
 5. Sprinkle in flour and stir until the vegetables are coated.
-6. Gradually pour in stock, stirring well.
+6. Gradually pour in stock and red wine, stirring well.
 7. Add the Worcestershire sauce, soy sauce, Thyme, and bay leaves.
 8. Bring to the boil.
 9. Add to the casserole dish, and cook for 20 minutes.
