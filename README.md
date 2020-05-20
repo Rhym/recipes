@@ -268,6 +268,7 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 12. Oil
 13. Salt
 14. Pepper
+15. 150ml Fresh Cream
 
 ### Steps
 
@@ -281,5 +282,7 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 7. Add the Worcestershire sauce, soy sauce, Thyme, and bay leaves.
 8. Bring to the boil.
 9. Add to the casserole dish, and cook for 20 minutes.
-10. Remove from the oven, and cover the top of the casserole with a layer of tater tots.
-11. Place back in the oven for another 20 minutes, or until the tater tots are golden brown.
+10. Remove from the oven.
+11. Remove the bay leaves, and mix in the cream.
+12. Cover the top of the casserole with a layer of tater tots.
+11. Place back in the oven for another 30-40 minutes, or until the tater tots are golden brown.
