@@ -257,26 +257,27 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 1. 500g beef short ribs
 2. 2 Carrots
 3. 1 Onion
-4. 2 Tablespoons of flour
-5. 2 Cups of beef stock
-6. 1 Cup of red wine
-7. 1 Tablespoon of Worcestershire sauce
-8. 1 Teaspoon of soy sauce
-9. 1 Tablespoon of Thyme
-10. 2 Bay leaves
-11. Butter
-12. Oil
-13. Salt
-14. Pepper
-15. 150ml Fresh Cream
+4. 1 Cup of mushrooms
+5. 2 Tablespoons of flour
+6. 2 Cups of beef stock
+7. 1 Cup of red wine
+8. 1 Tablespoon of Worcestershire sauce
+9. 1 Teaspoon of soy sauce
+10. 1 Tablespoon of Thyme
+11. 2 Bay leaves
+12. Butter
+13. Oil
+14. Salt
+15. Pepper
+16. 150ml Fresh Cream
 
 ### Steps
 
 1. Remove the meat from the bone, and dice into cubes.
 2. Peel and slice carrots.
-2. Dice onion.
+2. Dice onion, and chop mushrooms.
 3. Heat a large fry pan over a medium-high heat. Brown the beef in batches then place in a casserole dish.
-4. Reduce heat in pan, and sauté the onion and carrot in oil. Cook for 1-2 minutes, stirring occasionally.
+4. Reduce heat in pan, and sauté the onion, mushrooms and carrot in oil. Cook for 1-2 minutes, stirring occasionally.
 5. Sprinkle in flour and stir until the vegetables are coated.
 6. Gradually pour in stock and red wine, stirring well.
 7. Add the Worcestershire sauce, soy sauce, Thyme, and bay leaves.
