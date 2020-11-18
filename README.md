@@ -295,7 +295,7 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 ### Ingredients
 
 1. Packet of instant dry yeast
-2. 3/4 cups of flour
+2. 2 and a 3/4 cups of flour
 3. 2 tablespoons sugar
 4. 1 teaspoon of guar gum
 5. 1 teaspoon of salt
@@ -310,7 +310,7 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 2. Boil 1/4 cup of water and let sit until it's drinking temperature
 3. Add yeast and 1 tablespoon of sugar into a bowl and add 1/4 cup of water.
 4. Let the bowl sit for 5-10 minutes until it foams up and smells yeasty. In the meantime you can prep the dry bowl.
-5. Add 1 tablespoon of sugar, 3/4 cup of flour; 1 teaspoon of salt, and 1 teaspoon of guar gum.
+5. Add 1 tablespoon of sugar, 2 and 3/4 cup of flour; 1 teaspoon of salt, and 1 teaspoon of guar gum.
 6. Melt 2 tablespoons of butter.
 7. After the yeast mixture has sat, add it to the dry mixture along with 1 cup of milk, egg; and the 2 tablespoons of melted butter.
 8. Mix together with an electric mixer.
