@@ -8,6 +8,8 @@
 7. [Vegetarian Lasagne](#vegetarian-lasagne)
 8. [Thai Green Curry](#thai-green-curry)
 8. [Tater Tot Casserole](#tater-tot-casserole)
+9. [Dinner Buns](#dinner-buns)
+10. [Chicken Soup](#chicken-soup)
 
 ## Pork Chops
 
@@ -286,4 +288,69 @@ If you do three, I'm proud of you. Grate heaps of cheese on top and sprinkle wit
 10. Remove from the oven.
 11. Remove the bay leaves, and mix in the cream.
 12. Cover the top of the casserole with a layer of tater tots.
-11. Place back in the oven for another 30-40 minutes, or until the tater tots are golden brown.
+11. Place back in the oven for another 45 minutes, or until the tater tots are golden brown.
+
+## Dinner Buns
+
+### Ingredients
+
+1. Packet of instant dry yeast
+2. 3/4 cups of flour
+3. 2 tablespoons sugar
+4. 1 teaspoon of guar gum
+5. 1 teaspoon of salt
+6. 1 cup of milk
+7. 1 large egg
+8. 50g (2 tablespoons) of butter
+9. 1/4 cup of water
+
+### Steps
+
+1. Pre-heat oven to 50 degrees celsius
+2. Boil 1/4 cup of water and let sit until it's drinking temperature
+3. Add yeast and 1 tablespoon of sugar into a bowl and add 1/4 cup of water.
+4. Let the bowl sit for 5-10 minutes until it foams up and smells yeasty. In the meantime you can prep the dry bowl.
+5. Add 1 tablespoon of sugar, 3/4 cup of flour; 1 teaspoon of salt, and 1 teaspoon of guar gum.
+6. Melt 2 tablespoons of butter.
+7. After the yeast mixture has sat, add it to the dry mixture along with 1 cup of milk, egg; and the 2 tablespoons of melted butter.
+8. Mix together with an electric mixer.
+9. Separate mixture int 6 even sized buns.
+9. Add to the oven with a wet tea-towel covering the bowl.
+10. Around when the mixture has doubled set the oven to 180 degrees until baked.
+
+## Chicken Soup
+
+### Ingredients
+
+1. Chicken thighs
+2. 2 garlic cloves
+3. 1 tablespoon of soy sauce
+4. 1 tablespoon of worcestershire sauce
+5. 2 tablespoons of chicken stock
+6. 2 cups of water
+7. Celery
+8. 2 carrots
+9. 1 Onion
+10. 1 chilli
+11. 2 potatoes
+12. pumpkin
+13. Broccoli 
+14. Cabbage
+15. Salt
+16. Pepper
+17. 1 tablespoon of sweet chilli sauce
+18. 1 teaspoon of brown sugar
+
+### Steps
+
+1. Prep all vegetables
+2. Dice chicken thighs
+3. Add onions, celery; and garlic to a large soup pan.
+4. Add the chicken thighs, and fry until golden
+5. Add 2 tablespoons of chicken stock, and 2 cups of water.
+6. Add potatoes, pumpkin; potatoes (keep a small amount of pumpkin for later).
+7. Flavor to taste with salt, pepper; chilli, and worcestershire sauce.
+8. Add the remaining pumpkin into a bowl with hot water, and put in the microwave for 6 minutes on high.
+9. Remove pumpkin from the microwave and mush with a fork adding 1 tablespoon of sweet chilli sauce, and 1 teaspoon of brown sugar adding this to the soup mix.
+10. Add broccoli, cabbage.
+11. Boil until ready adding salt/pepper/soy sauce to taste.
